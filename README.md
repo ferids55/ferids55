@@ -14,16 +14,29 @@ Here are some ideas to get you started:
 # 📫 You can reach me at:
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
-<p>
-  <a href="https://www.linkedin.com/in/ferids" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@ferids55" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/zierferi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="https://www.facebook.com/feridwisa" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
-  <a href="mailto:feridwisa95@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-   <a href="http://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
 
-![Feri Dwi Saputro's Github Stats](https://github-readme-stats.vercel.app/api?username=ferids55&show_icons=true&theme=radical)
+[<img align="left" alt="ferids55 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
+[<img align="left" alt="ferids55 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ferids55 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ferids55 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ferids55 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ferids55 | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
+[yahoo]: mailto:ferids55@yahoo.co.id
+[medium]: https://medium/@ferids55
+[linkedin]: https://linkedin.com/in/ferids
+[instagram]: https://instagram.com/zierferi
+[facebook]: https://facebook/feridwisa
+[whatsapp]: https://wa.me/6289694855581
+<br/>
+
+---
+![Feri Dwi Saputro's Github Stats](https://github-readme-stats.vercel.app/api?username=ferids55&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferids55&layout=compact&theme=radical)
+
+
