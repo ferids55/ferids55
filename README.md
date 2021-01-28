@@ -6,7 +6,7 @@
 - I'm looking for opportunity jobs as Data Analyst or Data Scientist.
 - My hobbies is reading papers, watching movies, listening musics, and gaming.
 
-### Connect with me:
+### You can reach me at:
 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
@@ -23,7 +23,6 @@
 [facebook]: https://www.facebook.com/feridwisa
 [whatsapp]: https://wa.me/6289694855581
 [telegram]: https://www.t.me/ferids55
-<br/>
 
 ---
 ![Feri Dwi Saputro's Github Stats](https://github-readme-stats.vercel.app/api?username=ferids55&show_icons=true&theme=radical)<br>
