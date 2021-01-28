@@ -1,6 +1,6 @@
 ### Hi there 👋 You can call me Feri.
 
-- I'm Bachelor's Degree Computer Science majoring in Informatics Engineering
+- I'm a Bachelor of Computer Science majoring in Informatics Engineering
 - My age is 25 years old now and still single.
 - I'm currently learning Data Science with Python Programming Language.
 - I'm looking for opportunity jobs as Data Analyst or Data Scientist.
@@ -25,7 +25,7 @@
 [telegram]: https://www.t.me/ferids55
 
 ---
-![Feri Dwi Saputro's Github Stats](https://github-readme-stats.vercel.app/api?username=ferids55&show_icons=true&theme=radical)<br>
+![Feri Dwi Saputro's Github Stats](https://github-readme-stats.vercel.app/api?username=ferids55&show_icons=true&theme=radical)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferids55&layout=compact&theme=radical)
