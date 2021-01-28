@@ -22,7 +22,7 @@
 [instagram]: https://www.instagram.com/zierferi
 [facebook]: https://www.facebook.com/feridwisa
 [whatsapp]: https://wa.me/6289694855581
-[telegram]: https://www.t.me.ferids55
+[telegram]: https://www.t.me/ferids55
 <br/>
 
 ---
