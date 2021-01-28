@@ -7,21 +7,22 @@
 - My hobbies is reading papers, watching movies, listening musics, and gaming.
 
 ### Connect with me:
+
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
-[<img align="left" alt="ferids55 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
-[<img align="left" alt="ferids55 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="ferids55 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ferids55 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ferids55 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ferids55 | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
-[yahoo]: mailto:ferids55@yahoo.co.id
-[medium]: https://medium/@ferids55
+[gmail]: mailto:feridwisa95@gmail.com
+[medium]: https://medium.com/@ferids55
 [linkedin]: https://linkedin.com/in/ferids
 [instagram]: https://instagram.com/zierferi
-[facebook]: https://facebook/feridwisa
+[facebook]: https://facebook.com/feridwisa
 [whatsapp]: https://wa.me/6289694855581
+[telegram]: https://t.me.ferids55
 <br/>
 
 ---
