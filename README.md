@@ -17,12 +17,12 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 [gmail]: mailto:feridwisa95@gmail.com
-[medium]: https://medium.com/@ferids55
-[linkedin]: https://linkedin.com/in/ferids
-[instagram]: https://instagram.com/zierferi
-[facebook]: https://facebook.com/feridwisa
+[medium]: https://www.medium.com/@ferids55
+[linkedin]: https://www.linkedin.com/in/ferids
+[instagram]: https://www.instagram.com/zierferi
+[facebook]: https://www.facebook.com/feridwisa
 [whatsapp]: https://wa.me/6289694855581
-[telegram]: https://t.me.ferids55
+[telegram]: https://www.t.me.ferids55
 <br/>
 
 ---
