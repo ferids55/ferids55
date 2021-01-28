@@ -7,6 +7,7 @@
 - My hobbies is reading papers, watching movies, listening musics, and gaming.
 
 ### Connect with me:
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 [<img align="left" alt="ferids55 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 [<img align="left" alt="ferids55 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
