@@ -1,23 +1,11 @@
 ### Hi there 👋 You can call me Feri.
-<br> 
 
-<!--
-**ferids55/ferids55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Bachelor's Degree Computer Science majoring in Informatics Engineering
+- My age is 25 years old now and still single.
+- I'm currently learning Data Science with Python Programming Language.
+- I'm looking for opportunity jobs as Data Analyst or Data Scientist.
+- My hobbies is reading papers, watching movies, listening musics, and gaming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-# 📫 You can reach me at:
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Connect with me:
 
 [<img align="left" alt="ferids55 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
@@ -37,6 +25,8 @@ Here are some ideas to get you started:
 
 ---
 ![Feri Dwi Saputro's Github Stats](https://github-readme-stats.vercel.app/api?username=ferids55&show_icons=true&theme=radical)<br>
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferids55&layout=compact&theme=radical)
 
 
