@@ -19,7 +19,7 @@
 [gmail]: mailto:feridwisa95@gmail.com
 [medium]: https://www.medium.com/@ferids55
 [linkedin]: https://www.linkedin.com/in/ferids
-[instagram]: https://www.instagram.com/zierferi
+[instagram]: https://www.instagram.com/ferids55
 [facebook]: https://www.facebook.com/feridwisa
 [whatsapp]: https://wa.me/6289694855581
 [telegram]: https://www.t.me/ferids55
