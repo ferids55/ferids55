@@ -1,7 +1,7 @@
 ### Hi there 👋 You can call me Feri.
 
 - I'm a Bachelor of Computer Science majoring in Informatics Engineering
-- My age is 25 years old now and still single.
+- My age is 27 years old now.
 - I'm currently learning Data Science with Python Programming Language.
 - I'm looking for opportunity jobs as Data Analyst or Data Scientist.
 - My hobbies is reading papers, watching movies, listening musics, and gaming.
